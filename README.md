@@ -8,7 +8,7 @@ The script deals with two issues I encountered:
 How to use:
 1. Download the script.
 2. Set your access key and secret key (Make sure you have permissions for the above tasks).
-3. Add it as a bootstrap action for the EMR**
+3. Add it as a bootstrap action for the EMR with tags as parameters(key,value,key...)**
 
 **I think its easier to try it on a running EMR first.
 
