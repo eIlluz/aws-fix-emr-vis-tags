@@ -68,4 +68,4 @@ tagout, tagerr = tagsprocess.communicate()
 
 if tagerr:
     print(tagerr)
-    raise Exception('Could not set cluster to visible')
+    raise Exception('Could not add tags to cluster')
